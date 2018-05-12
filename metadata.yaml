@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2838
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33806#The-Camp-Fire-Girls-Across-the-Seas
 gutenberg_issued: '2010-09-23'
 gutenberg_type: Text
 identifiers:
