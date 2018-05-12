@@ -1,0 +1,32 @@
+_repo: The-Camp-Fire-Girls-Across-the-Seas_33806
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33806-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2010-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33806'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Description and travel -- Juvenile fiction'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'England -- Description and travel -- Juvenile fiction'
+- !lcsh 'Young women -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Camp Fire Girls Across the Seas
+url: http://www.gutenberg.org/ebooks/33806
